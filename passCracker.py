@@ -1,3 +1,5 @@
+## Made by FoxSinOfGreed1729
+
 import crypt
 import sys
 def passTest1(password):
